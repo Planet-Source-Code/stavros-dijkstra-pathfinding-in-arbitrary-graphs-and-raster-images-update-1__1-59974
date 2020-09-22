@@ -1,0 +1,8 @@
+//Update #1 (2005/16/04)
+
+ - Import your own BMP, JPG, GIF images! Colour or Greyscale.
+ - Fixed extreme memory utilization when pruning a graph.
+ - Fixed progress bar behaviour when benchmarking a random graph.
+ - Fixed .at loading glitches.
+ - Fixed error when .ga files had no coordinates.
+ - Fixed some file I/O errors.
